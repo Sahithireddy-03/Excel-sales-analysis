@@ -4,6 +4,9 @@ PROJECT GOAL:
 
 TOOLS & TECHNIQUES:
 Data Cleaning: TRIM, Remove Duplicates, and Data Validation.
+
 Analysis: XLOOKUP for data merging and IF/AND logic for business rules.
+
 Summarization: Pivot Tables to aggregate revenue by region and product.
-Visualization: Interactive PivotCharts and Slicers for dynamic reporting
+
+Visualization: Interactive PivotCharts and Slicers for dynamic reporting.
